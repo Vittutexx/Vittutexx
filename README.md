@@ -1,6 +1,6 @@
 
 # 💫 Sobre mim:
-Olá, me chamo Vitor e este é meu perfil do GitHub.<br><br>Sou estudante de análise e desenvolvimento de sistemas na instituição de ensino FIAP com previsão de término em 12/2024.<br>Caso tenha dicas e feedbacks para melhorar minha jornada na programação, por favor entre em contato!<br><br>
+Olá, me chamo Vitor e este é meu perfil do GitHub.<br><br>Sou estudante de análise e desenvolvimento de sistemas na instituição de ensino FIAP com previsão de término em 12/2024.<br>Caso tenha dicas e feedbacks para melhorar minha jornada na programação; ou tenha interesse em fins profissionais, por favor entre em contato!<br><br>
 
 
 ## 🌐 Redes Sociais:
