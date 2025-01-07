@@ -11,8 +11,6 @@ Olá, me chamo Vitor e este é meu perfil do GitHub.<br><br>Sou graduado desde 2
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vittutexx&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Vittutexx&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vittutexx&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vittutexx&icon=0&color=12)](https://visitcount.itsvg.in)
