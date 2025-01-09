@@ -1,6 +1,11 @@
 
 # 💫 Sobre mim:
-Olá, me chamo Vitor e este é meu perfil do GitHub.<br><br>Sou graduado desde 2024 em Analise e Desenvolvimento de Sistemas pela FIAP.<br>Atualmente estou focado no desenvolvimento back-end através da linguagem de programação Java<br>Caso tenha dicas e feedbacks para melhorar minha jornada na programação, ou caso tenha interesse no meu perfil para fins profissionais, por favor entre em contato!<br><br>
+
+👋🏻 Olá, me chamo Vitor e este é meu perfil do GitHub.<br><br>
+👨🏻‍🎓 Sou graduado desde 2024 em Análise e Desenvolvimento de Sistemas pela FIAP.<br>
+☕️ Atualmente estou focado no desenvolvimento back-end através da linguagem de programação Java<br>
+🤝 Caso tenha dicas e feedbacks para melhorar minha jornada na programação, ou caso tenha interesse no meu perfil para fins profissionais, por favor entre em contato!<br>
+<br>
 
 
 ## 🌐 Redes Sociais:
