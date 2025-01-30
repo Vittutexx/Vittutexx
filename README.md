@@ -3,7 +3,7 @@
 
 👋🏻 Olá, me chamo Vitor e este é meu perfil do GitHub.<br><br>
 👨🏻‍🎓 Sou graduado desde 2024 em Análise e Desenvolvimento de Sistemas pela FIAP.<br>
-☕️ Atualmente estou focado no desenvolvimento back-end através da linguagem de programação Java, e em análise de dados, estudando por conta própria através de cursos  Power BI.<br>
+☕️ Atualmente estou focado no desenvolvimento back-end através da linguagem de programação Java, e em análise de dados, estudando Power BI por conta propria e aprimorando meus conhecimentos em Python.<br>
 🤝 Caso tenha dicas e feedbacks para melhorar minha jornada na programação, ou caso tenha interesse no meu perfil para fins profissionais, por favor entre em contato!<br>
 <br>
 
